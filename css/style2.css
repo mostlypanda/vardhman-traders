@@ -127,6 +127,7 @@
     -ms-animation-delay: 30s;
     animation-delay: 30s;
 }
+
 @-webkit-keyframes imageAnimation { 
 	0% {
 	    opacity: 0;
